@@ -55,8 +55,8 @@ First, note how the just-intonation perfect fifth and the Pythagorean whole tone
 |----|-------------------|---------------|
 | ratio | 3/2 | 9/8 |
 | [monzo](https://en.xen.wiki/w/Monzo) |  [-1 1⟩  |  [-3 2⟩ |
-| 12edo |  2  | 5 |
-| 17edo | 3 | 7 |
+| 12edo |  5  | 2 |
+| 17edo | 7 | 3 |
 
 √2 WHiSq is based on the following observations:
 
