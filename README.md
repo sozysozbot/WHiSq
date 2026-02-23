@@ -13,6 +13,15 @@ Those familiar with microtonal music may be interested in the √2 WHiSq, which 
 
 This means that the layout has **translational symmetry**. This means that, once you learn how to play a melody or a chord progression in one key, you can apply the **exact same** fingering patterns in different keys.
 
+## How to set up
+
+### Launchpad Mini
+
+https://components.novationmusic.com/launchpad-mini-mk3/custom-modes/679509
+
+[syx file](./WHiSq%20colorful.syx)
+
+
 ## Shapes of chords 
 
 Thanks to the translational symmetry, chords of the same type have the same shape regardless of the key. For example, all major triads have the same shape, all minor triads have the same shape, and so on.
@@ -29,10 +38,8 @@ You can learn a chord progression in one key and then apply the same fingering p
 
 ![](./WHiSq_diatonic_chords.png)
 
-## How to set up
+## Non-diatonic chord progressions
 
-### Launchpad Mini
+[PNG](./WHiSq_common_nondiatonic_progressions.png) [SVG](./WHiSq_common_nondiatonic_progressions.svg)
 
-https://components.novationmusic.com/launchpad-mini-mk3/custom-modes/679509
-
-[syx file](./WHiSq%20colorful.syx)
+![](./WHiSq_common_nondiatonic_progressions.png)
